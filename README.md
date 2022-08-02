@@ -1,4 +1,4 @@
-# Hi there! My name is Hagay Haut. 
+# Hi there 👋 My name is Hagay Haut. 
 
 ## Junior Full Stack Software Engineer 
 
