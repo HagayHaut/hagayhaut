@@ -28,9 +28,13 @@ Enthusiastic about contributing my natural curiosity and passion for code with a
 <img align="left" alt="Rails" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/rubyonrails.svg" style="padding-right:10px;" />
 
 <br></br>
+## My Stats
+
+### GitHub
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HagayHaut&theme=highcontrast&show_icons=true&count_private=true)
 
-### My LeetCode Stats:
-
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagayhaut&hide=css,scss,html&theme=tokyonight)
+### LeetCode
 ![](https://leetcard.jacoblin.cool/hagayhaut?theme=dark)
+
