@@ -1,8 +1,8 @@
-# Hi there 👋 My name is Hagay Haut. 
+# Hi, my name is Hagay Haut. 
 
 ## Junior Full Stack Software Engineer 
 
-I'm passionate about user accessibility, data visualization, OOP, and building REST APIs. I'm currently utilizing the React.js and Ruby on Rails stack, and actively learning the MERN stack.
+I'm passionate about user accessibility, data visualization, OOP, and building REST APIs. I'm currently utilizing the React.js and Ruby on Rails stack, and currently learning the MERN stack.
 
 Enthusiastic about contributing my natural curiosity and passion for code with a collaborative team. When away from the GitHub workflow, I also enjoy hiking with my dog, playing jazz guitar, and studying music theory.
 
