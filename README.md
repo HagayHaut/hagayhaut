@@ -9,7 +9,7 @@ Enthusiastic about contributing my natural curiosity and passion for code with a
 - Currently living in Philadelphia, PA (willing to relocate)
 - [Resume](https://docs.google.com/document/d/1e3WMbcsDELr6TnHYi2qc3wY9n3doJao6n2s2vHKF0l0/edit)
 - [hagayhaut@gmail.com](hagayhaut@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/hagay-haut/)
+- Let's connect -> [LinkedIn](https://www.linkedin.com/in/hagay-haut/)
 
 ## Skills
 
