@@ -1,6 +1,6 @@
 # Hi, my name is Hagay Haut. 
 
-## Junior Full Stack Software Engineer 
+## Junior Software Engineer 
 
 I graduated from Flatiron School Software Engineering Bootcamp in July 2022. I'm passionate about optimization, data visualization, OOP, and building REST APIs. I build with React.js and Ruby on Rails stack, and am currently learning the MERN stack.
 
