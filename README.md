@@ -2,7 +2,7 @@
 
 ## Junior Software Engineer 
 
-I graduated from Flatiron School Software Engineering Bootcamp in July 2022. I'm passionate about optimization, data visualization, OOP, and building REST APIs. I build with React.js and Ruby on Rails stack, and am currently learning the MERN stack.
+I graduated from Flatiron School Software Engineering Bootcamp in July 2022. I'm passionate about optimization, data visualization, OOP, and building REST APIs. I build with React.js and Ruby on Rails stack, and am currently learning the MERN stack and C#.
 
 Enthusiastic about contributing my natural curiosity and passion for code with a collaborative team. When away from the GitHub workflow, I also enjoy hiking with my dog, playing jazz guitar, and studying music theory.
 
