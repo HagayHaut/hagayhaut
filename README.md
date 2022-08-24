@@ -1,11 +1,8 @@
 # Hagay Haut. 
 
 
-<<<<<<< HEAD
+
 The desire to understand and improve the systems around me brought me here, and the endless opportunity for learning and growth keep me here. Flatiron School Grad 2022.
-=======
-I graduated from Flatiron School Software Engineering Bootcamp in July 2022. I'm passionate about optimization, data visualization, OOP, and building REST APIs. I build with React.js and Ruby on Rails stack, and am currently learning the MERN stack and C#.
->>>>>>> 91bbf7de62a744f4bb13e4fe317a12086dab1fa0
 
 Enthusiastic about contributing my natural curiosity and passion for code with a collaborative team. When away from the GitHub workflow, I also enjoy hiking with my dog, playing jazz guitar, and studying music theory.
 
