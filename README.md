@@ -1,4 +1,4 @@
-# Hagay Haut
+## Contact
 
 - [Resume](https://docs.google.com/document/d/1e3WMbcsDELr6TnHYi2qc3wY9n3doJao6n2s2vHKF0l0/edit)
 - [hagayhaut@gmail.com](hagayhaut@gmail.com)
