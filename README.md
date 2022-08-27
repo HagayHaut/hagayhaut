@@ -1,12 +1,5 @@
 # Hagay Haut
 
-
-
-The desire to understand and improve the systems around me brought me here, and the endless opportunity for learning and growth keep me here. Flatiron School Grad 2022.
-
-Enthusiastic about contributing my natural curiosity and passion for code with a collaborative team. When away from the GitHub workflow, I also enjoy hiking with my dog, playing jazz guitar, and studying music theory.
-
-
 - [Resume](https://docs.google.com/document/d/1e3WMbcsDELr6TnHYi2qc3wY9n3doJao6n2s2vHKF0l0/edit)
 - [hagayhaut@gmail.com](hagayhaut@gmail.com)
 - Let's connect -> [LinkedIn](https://www.linkedin.com/in/hagay-haut/)
