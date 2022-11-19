@@ -13,5 +13,8 @@ ____________________
 <br></br>
 Find me on [LinkedIn](https://www.linkedin.com/in/hagay-haut/) and on [LeetCode](https://leetcode.com/HagayHaut/) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagayhaut&hide=css,scss,html&theme=dark)
+
+
 ![Leetcode stats](https://leetcard.jacoblin.cool/hagayhaut?theme=dark)
 
